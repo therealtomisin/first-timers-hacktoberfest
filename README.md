@@ -4,6 +4,7 @@ Some awesome first timers! Please add your name, bio, website, place, facebook o
 
 [2017](past-lists/2017.md)
 [2018](past-lists/2018.md)
+[2019](past-lists/2019.md)
 
 ### Example 
 
