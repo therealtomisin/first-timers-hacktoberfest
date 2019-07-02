@@ -2,7 +2,8 @@
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
-[2018 List](2018.md)
+[past-lists/2017 List](2017.md)
+[past-lists/2018 List](2018.md)
 
 ### Example
 
@@ -21,4 +22,4 @@ Twitter: JoeBobTheCannonFakeUser
 Facebook: JoeBobTheCannonFakeUser  
 
 ## First timers
-
+Go ahead and add your info to the file with the name of the current year(found in the past lists folder)
