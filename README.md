@@ -2,8 +2,8 @@
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
-[past-lists/2017 List](2017.md)
-[past-lists/2018 List](2018.md)
+[2017](past-lists/2017.md)
+[2018](past-lists/2018.md)
 
 ### Example
 
