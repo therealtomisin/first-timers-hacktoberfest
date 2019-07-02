@@ -549,39 +549,3 @@ Name: James Longs
 Bio: Student
 Place: Canada
 GitHub: https://github.com/jameslongs37
-
-Name: Prashant Bajaj
-Bio: learning frontend web development
-Place: kanpur, uttarpradesh , INDIA
-Github: https://github.com/bajaj99prashant
-
-Name: Bruno Babo
-Bio: College Student
-Place: Zagreb, Croatia
-
-Name: Aleksei Ivanov
-Bio: Crappy CS student :D
-Place: Ireland
-Github: https://github.com/Alekaei
-
-Name: Birvarinder Singh  
-Bio: Computer Science Student and open source enthusiast  
-Place: India  
-Github: https://github.com/singhbir  
-
-Name: Prashant Bajaj
-Bio: learning frontend web development
-Place: kanpur, uttarpradesh , INDIA
-Github: https://github.com/bajaj99prashant
-
-Name: B Siddhartha  
-Bio: Learning IOT  
-Place: Bangalore, INDIA  
-Github: https://github.com/bsidio
-
-Name: Amir Naghibi<br>
-Bio: Computer Science at UBC<br>
-Place: Vancouver, Canada<br>
-Website: amirnaghibi.github.io<br>
-Twitter: amir__naghibi<br>
-Github: https://github.com/amirnaghibi<br>
