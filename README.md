@@ -17,3 +17,9 @@ Facebook: @JoeBobTheCannonFakeUser
 
 ## First timers
 Go ahead and add your info to the file with the name of the current year(found in the past lists folder)
+Name: Timilehin Tomi
+Bio: I am a great guy!  
+Place: City of the Lagos
+Website: joethecannonball.fakewebsite.com  
+Twitter: @JoeBobTheCannonFakeUser  
+Facebook: @JoeBobTheCannonFakeUser
