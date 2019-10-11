@@ -15,5 +15,11 @@ Website: joethecannonball.fakewebsite.com
 Twitter: @JoeBobTheCannonFakeUser  
 Facebook: @JoeBobTheCannonFakeUser
 
+
+Name: Eugene Michael
+Bio: I am a great guy!  
+Place: Nigeria
+Instagram: @youthisboy
+
 ## First timers
 Go ahead and add your info to the file with the name of the current year(found in the past lists folder)
